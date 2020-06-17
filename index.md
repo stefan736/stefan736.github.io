@@ -10,3 +10,5 @@ Mit großer Macht kommt große Verantwortung.
 * Hat Spinnensensoren
 
 > Mit großer Macht, kommt große Verantwortung.
+
+<img src="https://avatars3.githubusercontent.com/u/37427675?s=460&u=f6096f2643325ab6d2d2f996be2e08f6e3395af8&v=4"/>
