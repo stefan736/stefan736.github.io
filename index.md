@@ -8,3 +8,5 @@ Mit großer Macht kommt große Verantwortung.
 * Kann Spinnennetze schießen
 * Kann an Wänden klettern
 * Hat Spinnensensoren
+
+> Mit großer Macht, kommt große Verantwortung.
