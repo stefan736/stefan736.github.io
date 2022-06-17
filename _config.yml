@@ -34,6 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
