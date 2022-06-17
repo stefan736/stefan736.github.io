@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Welcome! 👋
-list_title: My blog posts
+list_title: Latest Posts
 ---
 
 Hi, I'm Stefan. On this site I will share notes and thoughts about a lot of things.
