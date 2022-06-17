@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![[about.jpeg]]
+![about](/assets/about.jpeg)
 
 Hi, I'm Stefan.
 
