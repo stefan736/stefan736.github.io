@@ -4,7 +4,6 @@ title:  "Starting something new"
 date:   2021-09-03 20:55:06 +0000
 categories: update
 ---
-`Last updated in September, 2021`
 
 Since over a year I'm highly into note-taking and creating a personal knowledge graph which can help me retrieve information and let the creativity flow.
 This includes all kind of stuff e.g. relationships, technical things, processes etc.

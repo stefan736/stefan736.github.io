@@ -4,7 +4,6 @@ title:  "Time is the ultimate currency"
 date:   2021-09-04 20:55:06 +0000
 categories: update
 ---
-`Last updated in September, 2021`      
 
 There are so many currencies in the world, with the introduction of crypto-currencies even thousands more than some years ago. 
 
@@ -20,7 +19,7 @@ Time is also the one thing we do not know how much we have of it. (Except in Jus
   
 **So for me, time is the ultimate currency.**
 
-==Be careful how you spend it!==
+Be careful how you spend it!
 
 ---
 
