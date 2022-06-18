@@ -5,7 +5,7 @@ date:   2021-09-04 20:55:06 +0000
 categories: update
 ---
 
-using [WeeChat](/update/2021/09/04/WeeChat.html) for example.
+using [WeeChat]({% post_url 2021-09-04-WeeChat %}) for example.
 
 ### add server and connect
 ```
