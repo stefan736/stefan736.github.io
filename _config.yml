@@ -41,6 +41,7 @@ show_excerpts: true
 
 # Minima: custom header links
 header_pages:
+  - _pages/technical_stuff/*
   - _pages/frontpage.md
   - _pages/archive.md
   - _pages/about.md
@@ -48,6 +49,7 @@ header_pages:
 
 include:
     - _pages
+    - _pages/technical_stuff
 
 # Exclude from processing.
 # The following items will not be processed, by default.
