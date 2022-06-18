@@ -24,4 +24,4 @@ This is a collection of links to really interesting articles about different tec
 - [Event driven architecture using Apache Kafka explained for children’s](https://www.gentlydownthe.stream)
 - [Operating Systems Notes](https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/)
 - [Time Management](https://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf)
-- [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) ^ba7bf2
+- [Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine](https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/)
