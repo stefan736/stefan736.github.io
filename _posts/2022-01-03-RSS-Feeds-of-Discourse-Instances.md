@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RSS Feeds of Discourse Instandes"
+title:  "RSS Feeds of Discourse Instances"
 date:   2022-01-03 20:55:06 +0000
 categories: update
 ---
