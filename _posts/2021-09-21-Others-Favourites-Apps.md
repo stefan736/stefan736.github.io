@@ -5,7 +5,7 @@ date:   2021-09-21 20:55:06 +0000
 categories: update
 ---
 
-I always find it interessing to see which apps others are using. So here we go:
+I always find it interesting to see which apps others are using. So here we go:
 
 - [MacSparkys Home Screens](https://www.macsparky.com/blog/tag/home-screens/)
 - [Team @gittower](https://www.git-tower.com/blog/favorite-macos-apps-web-development/)

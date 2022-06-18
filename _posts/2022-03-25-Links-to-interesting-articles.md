@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Links to interessting articles"
+title:  "Links to interesting articles"
 date:   2022-03-25 20:55:06 +0000
 categories: update
 ---
