@@ -5,7 +5,7 @@ date:   2021-12-14 20:55:06 +0000
 categories: update
 ---
 
-![[Pasted image 20211214195049.png]]
+![Pasted image 20211214195049.png](/assets/Pasted image 20211214195049.png)
 
 `Last updated in December, 2021`
 

@@ -5,7 +5,7 @@ date:   2021-09-08 20:55:06 +0000
 categories: update
 ---
 
-![[keychron_k2.mp4]]
+![keychron](/assets/keychron_k2.mp4)
 
 `Last updated in September, 2021`
 

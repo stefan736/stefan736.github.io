@@ -5,7 +5,7 @@ date:   2021-09-18 20:55:06 +0000
 categories: update
 ---
 
-![[Pasted image 20210918211807.png]]
+![Pasted image 20210918211807.png](/assets/Pasted image 20210918211807.png)
 `Last updated in September, 2021`
 
 Owning a MacBook Air with Apple Silicon M1 is really really nice, performance and battery life are unmatched. 

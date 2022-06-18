@@ -14,11 +14,11 @@ Turns out, it lags on the Macbook Air with Apple Silicon M1, macOS 11.5.2. Maybe
 If you also have that feeling you can easily visualize that moving your mouse on  [vsynctester.com](https://www.vsynctester.com/testing/mouse.html)
 
 ### Trackpad
-![[mouse_stutter_trackpad.png]]
+![mouse_stutter_trackpad.png](/assets/mouse_stutter_trackpad.png)
 
 
 ### MX Master 3
-![[mouse_stutter_mx_master_3.png]]
+![mouse_stutter_mx_master_3.png](/assets/mouse_stutter_mx_master_3.png)
 
 Good thing is, I will mostly use the mouse on Windows which should be no problem... testing tomorrow => works perfectly fine
 
