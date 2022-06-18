@@ -1,7 +1,8 @@
 ---
-permalink: /technical_stuff/cloud_free_tier
-layout: page
-title: Cloud Free Tier
+layout: post
+title:  "Cloud Free Tier"
+date:   2021-09-05 20:55:06 +0000
+categories: update
 ---
 
 `Last updated in January, 2022`
