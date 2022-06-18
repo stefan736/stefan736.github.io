@@ -5,8 +5,6 @@ date:   2021-09-06 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in September, 2021`
-
 Connecting to machines these days via SSH is still a thing.
 To make this more secure, please use at least pubkey authentication and disable password login.
 

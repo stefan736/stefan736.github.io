@@ -7,8 +7,6 @@ categories: update
 
 ![keychron](/assets/keychron_k2.mp4)
 
-`Last updated in September, 2021`
-
 Some years ago after having used really thin keyboards I moved to a mechanical keyboard again, which is so much nicer to type on.
 
 [Keychron K2v2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard), also available with [german layout](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard-german-iso-de-layout)

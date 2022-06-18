@@ -5,8 +5,6 @@ date:   2021-09-04 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in September, 2021`
-
 using [[WeeChat]] for example.
 
 ### add server and connect

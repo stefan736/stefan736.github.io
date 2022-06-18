@@ -7,8 +7,6 @@ categories: update
 
 ![Pasted image 20211214195049.png](/assets/Pasted image 20211214195049.png)
 
-`Last updated in December, 2021`
-
 Die [Rheinische Post](https://rp-online.de) ist eine tolle Zeitung dessen Ausgabe in digitaler Form sehr großen praktischen Mehrwert mit sich bringt.
 
 Wer die App nicht nutzen möchte, kann die Zeitung auch online im Browser lesen oder sie sogar als PDF herunterladen.

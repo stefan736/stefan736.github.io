@@ -6,7 +6,6 @@ categories: update
 ---
 
 ![Pasted image 20210918211807.png](/assets/Pasted image 20210918211807.png)
-`Last updated in September, 2021`
 
 Owning a MacBook Air with Apple Silicon M1 is really really nice, performance and battery life are unmatched. 
 But when it comes to virtualization, you can no longer use VirtualBox or something like that, at least not natively, because Apple Silicons are ARM-based chips instead of x64/AMD64.

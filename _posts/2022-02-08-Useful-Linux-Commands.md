@@ -5,8 +5,6 @@ date:   2022-02-08 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in February, 2022`
-
 In the following table you see a collection of commands which can come handy. For some you need installed tools like jq, grep, aws or something. Should work in bash on Ubuntu or equivalent. 
 
 | Command | Comment |

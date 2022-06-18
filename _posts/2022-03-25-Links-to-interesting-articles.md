@@ -5,8 +5,6 @@ date:   2022-03-25 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in March, 2022`
-
 This is a collection of links to really interesting articles about different technical topics.
 
 - [macOS defaults](https://macos-defaults.com/#💻-list-of-commands)

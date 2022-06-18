@@ -5,8 +5,6 @@ date:   2021-10-16 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in February, 2022`
-
 I always find it interessing to see which apps others are using. See [[Others Favourites Apps]]
 So here are mine:
 

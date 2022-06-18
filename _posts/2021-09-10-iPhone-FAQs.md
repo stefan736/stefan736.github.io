@@ -5,8 +5,6 @@ date:   2021-09-10 20:55:06 +0000
 categories: update
 ---
 
-`Last updated in September, 2021`
-
 ### Why does the ringtone gets quieter when someone calls?
 Because you look at your phone!
 Seriously, recent iPhones come with FaceID and can recognize you. 
