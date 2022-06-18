@@ -48,7 +48,7 @@ header_pages:
 
 include:
     - _pages
-    - .well-known/matrix
+    - ".well-known"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
