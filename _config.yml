@@ -23,7 +23,6 @@ email: stefan@stefanberger.net
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Stefan. On this site I will share notes and thoughts about a lot of things.
   This may help others and also my future self.
-  [Search](https://duckduckgo.com/?q=site%3Astefanberger.net&ia=web)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stefanberger  
