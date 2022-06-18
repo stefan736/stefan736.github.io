@@ -16,7 +16,7 @@ I will not go into detail because sadly this is not ALWAYS free. But have a look
 
 ### Cloud Providers with ALWAYS free tier
 | Cloud Provider | # VMs | vCPUs / VM | Memory | Disk | Outgoing Traffic |
-| --- | ---: | ---: | ---: | ---: | ---: |
+| --- | --- | --- | --- | --- | --- |
 | [Google Cloud Platform](https://cloud.google.com/free/) | 1 | 2 | 1 GB | 30 GB | 1 GB |
 | [Microsoft Azure](https://azure.microsoft.com/en-us/free/) | 1 | 1 | 1 GB | 64 GB | 15 GB |
 | [Oracle Cloud](https://www.oracle.com/cloud/free/) | **2**<br />**1** | 2<br />4 (ARM) | 1 GB<br />24 GB | 200 GB<br /> | 10 TB |
