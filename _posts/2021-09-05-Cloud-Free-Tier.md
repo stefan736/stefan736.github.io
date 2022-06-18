@@ -24,4 +24,4 @@ Cloud Provider | # VMs | vCPUs / VM | Memory | Disk | Outgoing Traffic
 Oracle is my favourite choice here  😍 
 
 If you set this is up using an Ubuntu image, it can be that the firewall is enabled.
-See [[Change Ubuntu firewall rules]]
+See [Change Ubuntu firewall rules](/update/2021/09/05/Change-Ubuntu-firewall-rules.html)

@@ -5,7 +5,7 @@ date:   2021-09-04 20:55:06 +0000
 categories: update
 ---
 
-using [[WeeChat]] for example.
+using [WeeChat](/update/2021/09/04/WeeChat.html) for example.
 
 ### add server and connect
 ```
