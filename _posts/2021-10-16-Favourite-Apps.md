@@ -26,6 +26,7 @@ So here are mine:
 - [Things](https://culturedcode.com/things/) - Tasks Manager
 - [Threema](https://threema.ch/de) -  my ID: [SAWW7E6W](https://threema.id/SAWW7E6W) - Secure Messenger
 - [Tweetbot](https://www.tapbots.com/tweetbot/) - Twitter Client
+- [Working Copy](https://workingcopy.app) - Git Client
 
 ### macOS
 - [Arq](https://www.arqbackup.com) - Encrypted Backups Tool
