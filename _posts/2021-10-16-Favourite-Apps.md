@@ -5,7 +5,9 @@ date:   2021-10-16 20:55:06 +0000
 categories: update
 ---
 
-I always find it interessing to see which apps others are using. See [[Others Favourites Apps]]
+I always find it interessing to see which apps others are using. See 
+[Others Favourites Aps]({% post_url 2021-09-21-Others-Favourites-Apps %})
+
 So here are mine:
 
 ### iOS
