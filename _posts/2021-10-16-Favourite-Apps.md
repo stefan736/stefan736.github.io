@@ -5,7 +5,9 @@ date:   2021-10-16 20:55:06 +0000
 categories: update
 ---
 
-I always find it interessing to see which apps others are using. See [[Others Favourites Apps]]
+I always find it interessing to see which apps others are using. See 
+[Others Favourites Apps]({% post_url 2021-09-21-Others-Favourites-Apps %})
+
 So here are mine:
 
 ### iOS
@@ -24,6 +26,7 @@ So here are mine:
 - [Things](https://culturedcode.com/things/) - Tasks Manager
 - [Threema](https://threema.ch/de) -  my ID: [SAWW7E6W](https://threema.id/SAWW7E6W) - Secure Messenger
 - [Tweetbot](https://www.tapbots.com/tweetbot/) - Twitter Client
+- [Working Copy](https://workingcopy.app) - Git Client
 
 ### macOS
 - [Arq](https://www.arqbackup.com) - Encrypted Backups Tool
