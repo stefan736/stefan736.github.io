@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self-Hosted vs. Hosted"
-date:   2022-06-30 21:14:06 +0000
+date:   2022-06-30 00:00:00 +0000
 categories: update
 ---
 
