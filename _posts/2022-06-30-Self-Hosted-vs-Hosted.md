@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Hosted vs. Hosted"
 date:   2022-06-30 21:14:06 +0000
-categories: thoughts
+categories: update
 ---
 
 Recently I came across some thoughts about my self-hosting stuff, like nextcloud (cloud storage), vaultwarden (password manager) and different others things.
