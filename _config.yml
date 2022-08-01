@@ -29,6 +29,10 @@ twitter_username: stefanberger
 github_username:  stefan736
 linkedin_username: stefan-berger-4833a9196
 
+mastodon:
+  - username: stefan_
+    instance: mastodon.social
+
 # Build settings
 theme: minima
 plugins:
