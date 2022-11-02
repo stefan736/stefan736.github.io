@@ -30,8 +30,8 @@ github_username:  stefan736
 linkedin_username: stefan-berger-4833a9196
 
 mastodon:
-  - username: stefan_
-    instance: mastodon.social
+  - username: stefan
+    instance: social.stefanberger.net
 
 # Build settings
 theme: minima
