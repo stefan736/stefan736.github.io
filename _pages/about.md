@@ -24,7 +24,7 @@ I'm member and/or supporter of
 - [Tor](https://www.torproject.org)
 - [Folding@home](https://foldingathome.org)
 
-To keep updated with my work, follow me on [Twitter](https://twitter.com/stefanberger), [GitHub](https://github.com/stefan736) or [LinkedIn](https://www.linkedin.com/in/stefan-berger-4833a9196/).
+To keep updated with my work, follow me on [Mastodon](https://social.stefanberger.net/@stefan), [GitHub](https://github.com/stefan736) or [LinkedIn](https://www.linkedin.com/in/stefan-berger-4833a9196/).
 
 ---
 
